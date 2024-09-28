@@ -1,4 +1,3 @@
-
 const SWAPI_URL = 'https://swapi.dev/api/starships/';
 
 //function to fetch starships from the Star Wars API
